@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IngramTest</string>
+
+    <string name="str_invalidreqs">Invalid Response</string>
+
+    <string name="str_no_internet">No Internet</string>
+
+    <string name="str_no_data">No Details Found</string>
+
+    <string name="str_match_details">Match Details</string>
+
+    <string name="str_ht_name">HomeTeam Name\n <b>Click for Team details</b></string>
+    <string name="str_aw_name">AwayTeam Name\n<b>Click for Team details</b></string>
+
+    <string name="str_status">Status</string>
+
+    <string name="str_ht_goal">HomeTeam Goal</string>
+    <string name="str_aw_goal">AwayTeam Goal</string>
+
+    <string name="str_date">Date</string>
+
+    <string name="str_team_name">Name</string>
+    <string name="str_team_code">Code</string>
+    <string name="str_team_shortname">ShortName</string>
+    <string name="str_team_value">squadMarketValue</string>
+
+    <string name="str_loading">Loading . . .</string>
+
+    <string name="str_id">Id</string>
+    <string name="str_name">Name</string>
+    <string name="str_nationality">Nationality</string>
+
+</resources>
